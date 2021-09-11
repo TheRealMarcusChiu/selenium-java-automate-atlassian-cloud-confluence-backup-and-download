@@ -1,3 +1,7 @@
+## Introduction
+- this project uses selenium to automate button clicking, in order to download confluence-backups from atlassian cloud
+
+
 ## Prerequisites
 - install chrome-driver
 
